@@ -6,7 +6,7 @@ const Title: React.FC = () => {
     <div className="flex flex-row items-center p-8 text-center">
       <Heart />
       <p className="grow text-5xl sm:text-6xl md:text-7xl lg:text-8xl">
-        Happy Mother's Day
+        Happy Mother&apos;s Day
       </p>
       <Heart />
     </div>
