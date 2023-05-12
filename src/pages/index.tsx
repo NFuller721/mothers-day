@@ -1,4 +1,5 @@
 import { type NextPage } from "next";
+import Head from "next/head";
 import Body from "~/components/Body";
 import Title from "~/components/Title";
 

@@ -23,8 +23,8 @@
   }
 }
 
-svg path {
-  stroke-dasharray: 1;
-  stroke-dashoffset: 1;
-  animation: draw 2s ease-in-out alternate infinite;
+html,
+body {
+  background-color: #181a1b !important;
+  height: 100vh;
 }
